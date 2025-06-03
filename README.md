@@ -1,4 +1,4 @@
-<img src="img/pwUneWQqU9X5TS5bH9sveDZNK30.svg" alt="Header" style="width: 100%; height: 40%;">
+<img src="img/1_E5O24W2h9LA6YlvMDblEhw.png" alt="Header" style="width: 100%; height: auto;">
 This tool enables automatic data transfer from **Amazon Redshift** to **Google Sheets** using **AWS Lambda**, with triggers managed through **Amazon EventBridge**. It is ideal for generating and sharing scheduled reports by syncing queried data from your data warehouse directly into a Google Sheet.
 
 ---
