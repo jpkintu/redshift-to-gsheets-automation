@@ -1,0 +1,5 @@
+# .gitignore
+google_creds.json
+.env
+*.secret
+__pycache__/
